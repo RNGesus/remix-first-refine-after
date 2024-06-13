@@ -1,6 +1,6 @@
 # Welcome to Remix!
 
-refine integration mostly based on [with remix vite headless example](https://github.com/refinedev/refine/blob/master/examples/with-remix-vite-headless/package.json)
+refine integration based on [with remix vite headless example](https://github.com/refinedev/refine/blob/master/examples/with-remix-vite-headless/package.json)
 
 - 📖 [Remix docs](https://remix.run/docs)
 
